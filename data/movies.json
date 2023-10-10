@@ -1,0 +1,23 @@
+[
+  {
+    "id": "100",
+    "title": "The Avengers",
+    "year": "2020",
+    "genre": "Action, Adventure, Fantasy",
+    "rating": "7.9"
+  },
+  {
+    "id": "101",
+    "title": "The wolf of the wall Street",
+    "year": "2013",
+    "genre": "Biography, Comedy, Crime",
+    "rating": "8.2"
+  },
+  {
+    "id": "102",
+    "title": "Avatar 2",
+    "year": "2020",
+    "genre": "Action, Adventure, Fantasy",
+    "rating": "7.9"
+  }
+]
